@@ -1,7 +1,0 @@
-﻿  Ex_10.cpp
-C:\Users\ASUS\OneDrive\C++\C++ Лабы\Програмирование\Lab2\ConsoleApplication1\Ex_10.cpp(170,25): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\ASUS\OneDrive\C++\C++ Лабы\Програмирование\Lab2\ConsoleApplication1\Ex_10.cpp(171,61): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\ASUS\OneDrive\C++\C++ Лабы\Програмирование\Lab2\ConsoleApplication1\Ex_10.cpp(172,93): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\ASUS\OneDrive\C++\C++ Лабы\Програмирование\Lab2\ConsoleApplication1\Ex_10.cpp(173,93): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
-C:\Users\ASUS\OneDrive\C++\C++ Лабы\Програмирование\Lab2\ConsoleApplication1\Ex_10.cpp(174,66): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
-  ConsoleApplication1.vcxproj -> C:\Users\ASUS\OneDrive\C++\C++ Лабы\Програмирование\Lab2\ConsoleApplication1\Debug\Ex_10.exe
